@@ -32,7 +32,7 @@ class Prestamo {
     console.log("Monto: ", this.monto);
     console.log("Cantidad de pagos: ", this.pagos);
     console.log("En total pagara: ", this.montoFinal);
-    console.log(" ");
+    console.log("  ");
   }
 }
 
